@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1735193694 source:c:\tubes_praktikum_std\program_warnet_kelompok_d\graph_warnet.cpp
+	"graph_warnet.h"
+
+1735193653 c:\tubes_praktikum_std\program_warnet_kelompok_d\graph_warnet.h
+	<iostream>
+	<vector>
+	<queue>
+	<unordered_map>
+	<limits>
+	<set>
+
+1735193718 source:c:\tubes_praktikum_std\program_warnet_kelompok_d\main.cpp
+	"graph_warnet.h"
+
